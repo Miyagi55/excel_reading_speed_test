@@ -25,7 +25,9 @@ Create folder 'excel_files' with your excel files within.
 ## ▶️ Usage
 Run the performance test script:
 ```bash
-python main.py
+uv run python xlsx_to_csv.py
+uv run python main.py
+uv run python generate.py
 ```
 The steps:
 1. 🔄 `xlsx_to_csv.py` -> Convert `.xlsx` files to `.csv`.
