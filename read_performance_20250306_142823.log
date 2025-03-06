@@ -1,0 +1,5 @@
+2025-03-06 14:28:23,404 - Starting processing of 10 files, total size: 122.45 MB
+2025-03-06 14:28:25,850 - Pandas Processing completed in 2.45 seconds, read 348275 rows
+2025-03-06 14:28:26,231 - Polars Processing completed in 0.35 seconds, read 348275 rows
+2025-03-06 14:28:26,715 - Fireducks Processing completed in 0.46 seconds, read 348275 rows
+2025-03-06 14:28:26,718 - Results saved to performance_results.csv

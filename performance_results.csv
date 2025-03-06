@@ -1,0 +1,4 @@
+Library,Duration (seconds),Rows Read,Files Processed,Total Size
+Polars,0.3495922088623047,348275,10,122.45 MB
+Fireducks,0.46285009384155273,348275,10,122.45 MB
+Pandas,2.4458322525024414,348275,10,122.45 MB
