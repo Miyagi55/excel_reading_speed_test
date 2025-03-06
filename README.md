@@ -38,3 +38,7 @@ The steps:
 The benchmark outputs a simple bar chart comparing the time taken by each library.
 
 ![Performance Chart](performance_chart.png)
+
+---
+
+Because of Fireducks, this should be executed in a linux system. I used WSL in Windows. 
