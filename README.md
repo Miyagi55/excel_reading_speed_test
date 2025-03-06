@@ -27,7 +27,7 @@ Run the performance test script:
 ```bash
 uv run python xlsx_to_csv.py
 uv run python main.py
-uv run python generate.py
+uv run python generate_graphics.py
 ```
 The steps:
 1. 🔄 `xlsx_to_csv.py` -> Convert `.xlsx` files to `.csv`.
